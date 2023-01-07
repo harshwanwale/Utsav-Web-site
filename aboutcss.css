@@ -303,6 +303,8 @@
 @media (max-width:700px) {
     .header {
         min-height: 90vh;
+        background-image: linear-gradient(rgba(15, 24, 61, 0.2), rgba(24, 32, 65, 0.2)), url(images/mobile.JPG);
+       
     }
     .textbox{
         margin-top: 40%;
