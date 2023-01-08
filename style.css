@@ -298,7 +298,7 @@ hr{
 @media (max-width:700px) {
 
   .header {
-  background-image: linear-gradient(rgba(15, 24, 61, 0.2), rgba(24, 32,  65, 0.2)), url(images/mobile.JPG);
+  background-image: linear-gradient(rgba(15, 24, 61, 0.466), rgba(24, 32, 65, 0.421)), url(images/sggs.JPG);
 
 }
   .textbox{
@@ -308,7 +308,7 @@ hr{
       font-size: 20px;
   }
   .textbox h3{
-    width:60%;
+    width:80%;
   }
   .image{
     margin-top: 50%;
