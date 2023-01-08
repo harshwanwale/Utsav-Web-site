@@ -310,6 +310,9 @@ hr{
   .textbox h3{
     width:60%;
   }
+  .image{
+    margin-top: 50%;
+  }
   .logo{
       text-align: right;
   }
