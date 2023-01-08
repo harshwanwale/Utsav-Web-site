@@ -13,7 +13,7 @@
   .header {
     min-height: 100vh;
     max-width: 100vw;
-    background-image: linear-gradient(rgba(15, 24, 61, 0.2), rgba(24, 32, 65, 0.2)), url(images/mobile.JPG);
+    background-image: linear-gradient(rgba(15, 24, 61, 0.2), rgba(24, 32, 65, 0.2)), url(images/DSC_0179.JPG);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -76,8 +76,36 @@
     width: 100%;
     transition: 0.5s;
   }
-  
+  .nextsection{
+    align-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .nextsection h2{
+    text-align: center;
+    font-family: sans-serif;
+    color: #fff;
+    background-color: rgba(212, 38, 73, 0.75);
+    border:solid 2px #fff;
+    align-items: center;
+    border-radius: 20%;
+   
+  }
+  .nextsection h3{
+    padding:1%;
+    text-align: center;
+    font-family: sans-serif;
+    color: #fff;
+    letter-spacing: 10px;
+    background-color: rgba(212, 38, 73, 0.75);
+    border:solid 2px #fff;
+  }
+  .nextsection p{
+    color: black;
+    font-style:italic;
+  }
   .threeblocks {
+    padding-top: 1%;
     display: flex;
     justify-content: space-between;
     font-family: sans-serif;
@@ -87,7 +115,6 @@
     align-items: center;
     justify-content: space-between;
     display:block;
-    margin: 0%;
     padding-left: 2%;
     padding-right: 2%;
     padding-top: 2%;
@@ -301,8 +328,8 @@
   
     .threeblocks {
         display: block;
-        margin-left: 20px;
-        margin-right: 20px;
+        margin-left:5%;
+        margin-right: 10%;
     }
   
     .footer-content {
@@ -311,17 +338,17 @@
     .head{
         padding-top: 15px;
         padding-bottom: 5px;
-        width: 90%;
+        width: 100%;
     }
     .guest{
         padding-top: 15px;
         padding-bottom: 5px;
-        width: 90%;
+        width: 100%;
     }
     .director{
         padding-top: 15px;
         padding-bottom: 10px;
-        width: 90%;
+        width: 100%;
         
     }
   
