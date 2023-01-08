@@ -292,8 +292,8 @@ hr {
 
   .officialhead {
     display: block;
-    width: 80%;
-    padding-left: 3%;
+    width: 90%;
+    padding-left: 4%;
 
   }
 
@@ -302,7 +302,9 @@ hr {
   }
 
   .club-coordinator {
-    width: 70%;
+    width: 80%;
     padding-left: 3%;
+    border-radius: 8%;
+    margin-top: 3%;
   }
 }
