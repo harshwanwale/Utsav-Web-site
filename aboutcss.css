@@ -138,10 +138,7 @@
   align-items: center;
   justify-content: space-between;
   display: block;
-  margin: 0%;
-  padding-left: 2%;
-  padding-right: 2%;
-  padding-top: 2%;
+  padding: 2%;
   margin-right: 1%;
   text-align: center;
   box-shadow: 10px 5px 3px rgba(85, 4, 57, 0.765);
@@ -174,9 +171,7 @@
   justify-content: space-between;
   display: block;
   margin: 0%;
-  padding-left: 2%;
-  padding-right: 2%;
-  padding-top: 2%;
+ padding: 2%;
   text-align: center;
   text-decoration: none;
   box-shadow: 10px 5px 3px rgba(85, 4, 57, 0.765);
@@ -205,9 +200,7 @@
   justify-content: space-between;
   display: inline-block;
   margin: 0%;
-  padding-left: 2%;
-  padding-right: 2%;
-  padding-top: 2%;
+  padding: 2%;
   margin-left: 1%;
   text-align: center;
   text-decoration: none;
