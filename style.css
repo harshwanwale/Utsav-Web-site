@@ -280,6 +280,10 @@ footer {
 .footer-bottom p {
   font-size: 14px;
   word-spacing: 2px;
+
+
+
+
   text-transform: capitalize;
 }
 hr{
@@ -294,7 +298,7 @@ hr{
 @media (max-width:700px) {
 
   .header {
-  background-image: linear-gradient(rgba(15, 24, 61, 0.2), rgba(24, 32, 65, 0.2)), url(images/mobile.JPG);
+  background-image: linear-gradient(rgba(15, 24, 61, 0.2), rgba(24, 32,  65, 0.2)), url(images/mobile.JPG);
 
 }
   .textbox{
@@ -302,6 +306,9 @@ hr{
   }
   .textbox a {
       font-size: 20px;
+  }
+  .textbox h3{
+    width:60%;
   }
   .logo{
       text-align: right;
@@ -336,35 +343,11 @@ hr{
       display: none;
   }
 
-  .nextsection {
-      min-height: 145vh;
-  }
-
-  .threeblocks {
-      display: block;
-      margin-left: 20px;
-      margin-right: 20px;
-  }
 
   .footer-content {
       display: block;
   }
-  .head{
-      padding-top: 15px;
-      padding-bottom: 5px;
-      width: 90%;
-  }
-  .guest{
-      padding-top: 15px;
-      padding-bottom: 5px;
-      width: 90%;
-  }
-  .director{
-      padding-top: 15px;
-      padding-bottom: 10px;
-      width: 90%;
-      
-  }
+
 
 
 }
